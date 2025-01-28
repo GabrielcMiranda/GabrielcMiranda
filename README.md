@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, i'm gabriel miranda 🖐️
 
-<!--
-**GabrielcMiranda/GabrielcMiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<li> second-year computer science student at <a href="https://www.cesupa.br/">Cesupa</a> 🏛️
+<li>game developing and data science enthusiast 💻
+<li>obssesed with sports 🏐🏋️‍♂️
+<br>
 
-Here are some ideas to get you started:
+## Languages and tools:
+<img width= 50 heigth= 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img width= 50 heigth= 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img width= 50 heigth= 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img width= 50 heigth= 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img width= 50 heigth= 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img width= 50 heigth = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img width= 50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<br>
+<img width= 120 heigth = 120 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" />
+<img width=120 heigth= 120 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original-wordmark.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats:
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielcMiranda&show_icons=true&theme=dracula)
