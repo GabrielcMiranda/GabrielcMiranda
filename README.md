@@ -1,7 +1,7 @@
 # Hi there, i'm gabriel miranda 🖐️
 
 <li> second-year computer science student at <a href="https://www.cesupa.br/">Cesupa</a> 🏛️
-<li>game developing and data science enthusiast 💻
+<li>backend developing enthusiast 💻
 <li>obssesed with sports 🏐🏋️‍♂️
 <br>
 
