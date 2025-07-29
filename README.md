@@ -11,7 +11,7 @@
 <img width= 60 heigth= 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
 
 <br>
-
+<br>
 <img width= 60 heigth= 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
 <img width= 60 heigth= 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"/>
 <img width= 60 heigth= 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"/>
